@@ -19,3 +19,5 @@ void TrexZnachnieChisla(string[] array, string[] array2)
 Console.WriteLine("Введите данные через пробел и нажмите Enter");
 string[] arr = Console.ReadLine().Split(' ').ToArray();
 string[] arr2 = new string[arr.Length];
+
+TrexZnachnieChisla(arr, arr2);
