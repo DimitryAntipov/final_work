@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\bin\Debug\net6.0\kontrolnaja.exe
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\bin\Debug\net6.0\kontrolnaja.deps.json
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\bin\Debug\net6.0\kontrolnaja.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\bin\Debug\net6.0\kontrolnaja.dll
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\bin\Debug\net6.0\ref\kontrolnaja.dll
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\bin\Debug\net6.0\kontrolnaja.pdb
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\kontrolnaja.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\kontrolnaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\kontrolnaja.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\kontrolnaja.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\kontrolnaja.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\kontrolnaja.dll
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\ref\kontrolnaja.dll
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\kontrolnaja.pdb
+C:\Users\Lenovo\Desktop\Домашняя работа\Итоговая работа\Itoz_work\kontrolnaja\obj\Debug\net6.0\kontrolnaja.genruntimeconfig.cache
